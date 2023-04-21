@@ -1,4 +1,5 @@
-Messages Gateway, send free messages all over Europe using SMTP/SMS exploit !
+Messages Gateway, send free messages all over Europe using SMTP/SMS exploit.
+Still working 2023/04/21
 
 ## Resources
 
